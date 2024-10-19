@@ -32,3 +32,5 @@ function findOdd(arr) {
   }
   return result;
 }
+
+// or
